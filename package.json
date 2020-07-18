@@ -1,0 +1,17 @@
+{
+	"name": "realtime-chat-socketio",
+	"version": "1.0.0",
+	"description": "Realtime chat cord by nodejs-express and socket.io",
+	"main": "app.js",
+	"scripts": {
+		"dev": "nodemon app.js"
+	},
+	"keywords": [],
+	"author": "Tu Van Tran",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1",
+		"moment": "^2.27.0",
+		"socket.io": "^2.3.0"
+	}
+}
